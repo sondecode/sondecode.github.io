@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Lời mở đầu"
+date:   2022-10-30 18:45:37 +0700
+categories: share
+---
+Một ngày cuối thu, trong một phòng trọ bé bé tại Hà Nội có một thanh niên rảnh rỗi không có việc gì làm. Hắn đọt nghĩ ra một ý tưởng đó là chia sẻ những hiểu biết của mình về công nghệ lên một trang web. Hy vọng những điều hắn viết trên đấy sẽ đem lại giá trị cho cộng đồng.
